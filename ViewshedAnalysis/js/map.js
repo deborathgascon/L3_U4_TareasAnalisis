@@ -121,7 +121,7 @@ require([
                  * Step: Prepare the first input parameter
                  */
                 var fsInputPoint = new FeatureSet ();
-                fsInputPoint.feature.push(graphicViewpoint);
+                fsInputPoint.features.push(graphicViewpoint);
 
 
                 /*
